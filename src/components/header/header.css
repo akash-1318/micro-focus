@@ -1,0 +1,21 @@
+.header {
+    padding: 3rem 0rem;
+    background-color: #000;
+    color: #fff;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    width: 100%;
+}
+
+.radio {
+    margin-left: 1rem;
+}
+
+.radio__input {
+    margin-right: .5rem;
+}
+
+.left__sub-header, .middle__sub-header, .right__sub-header   {
+    width: calc(100% / 3);
+    text-align: center;
+}
